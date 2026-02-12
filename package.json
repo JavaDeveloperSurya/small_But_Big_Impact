@@ -1,0 +1,29 @@
+{
+  "name": "small_but_big_impact",
+  "version": "1.0.0",
+  "description": "simple frontend and backend workflow to understand how the cart (card) render dynamically and dhow data based on clicked cart.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaDeveloperSurya/small_But_Big_Impact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaDeveloperSurya/small_But_Big_Impact/issues"
+  },
+  "homepage": "https://github.com/JavaDeveloperSurya/small_But_Big_Impact#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
