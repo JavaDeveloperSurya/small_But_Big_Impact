@@ -1,0 +1,404 @@
+[
+  {
+    "id": "cse1",
+    "img_url": "https://randomuser.me/api/portraits/men/1.jpg",
+    "full_name": "Arjun Sharma",
+    "dob": "1998-05-14",
+    "email": "arjun.sharma@csdept.com",
+    "ph_no": "9876543201",
+    "department": "Computer Science",
+    "specification": "Artificial Intelligence"
+  },
+  {
+    "id": "cse2",
+    "img_url": "https://randomuser.me/api/portraits/women/2.jpg",
+    "full_name": "Neha Verma",
+    "dob": "1999-07-21",
+    "email": "neha.verma@csdept.com",
+    "ph_no": "9876543202",
+    "department": "Computer Science",
+    "specification": "Data Science"
+  },
+  {
+    "id": "cse3",
+    "img_url": "https://randomuser.me/api/portraits/men/3.jpg",
+    "full_name": "Rohan Gupta",
+    "dob": "1997-11-09",
+    "email": "rohan.gupta@csdept.com",
+    "ph_no": "9876543203",
+    "department": "Computer Science",
+    "specification": "Cyber Security"
+  },
+  {
+    "id": "cse4",
+    "img_url": "https://randomuser.me/api/portraits/women/4.jpg",
+    "full_name": "Priya Nair",
+    "dob": "2000-02-18",
+    "email": "priya.nair@csdept.com",
+    "ph_no": "9876543204",
+    "department": "Computer Science",
+    "specification": "Cloud Computing"
+  },
+  {
+    "id": "cse5",
+    "img_url": "https://randomuser.me/api/portraits/men/5.jpg",
+    "full_name": "Karthik Reddy",
+    "dob": "1998-09-30",
+    "email": "karthik.reddy@csdept.com",
+    "ph_no": "9876543205",
+    "department": "Computer Science",
+    "specification": "Full Stack Development"
+  },
+  {
+    "id": "cse6",
+    "img_url": "https://randomuser.me/api/portraits/women/6.jpg",
+    "full_name": "Sneha Iyer",
+    "dob": "1999-12-12",
+    "email": "sneha.iyer@csdept.com",
+    "ph_no": "9876543206",
+    "department": "Computer Science",
+    "specification": "Machine Learning"
+  },
+  {
+    "id": "cse7",
+    "img_url": "https://randomuser.me/api/portraits/men/7.jpg",
+    "full_name": "Vikram Singh",
+    "dob": "1997-03-25",
+    "email": "vikram.singh@csdept.com",
+    "ph_no": "9876543207",
+    "department": "Computer Science",
+    "specification": "DevOps"
+  },
+  {
+    "id": "cse8",
+    "img_url": "https://randomuser.me/api/portraits/women/8.jpg",
+    "full_name": "Ananya Das",
+    "dob": "1998-08-19",
+    "email": "ananya.das@csdept.com",
+    "ph_no": "9876543208",
+    "department": "Computer Science",
+    "specification": "Blockchain"
+  },
+  {
+    "id": "cse9",
+    "img_url": "https://randomuser.me/api/portraits/men/9.jpg",
+    "full_name": "Rahul Mehta",
+    "dob": "1999-01-10",
+    "email": "rahul.mehta@csdept.com",
+    "ph_no": "9876543209",
+    "department": "Computer Science",
+    "specification": "Software Engineering"
+  },
+  {
+    "id": "cse10",
+    "img_url": "https://randomuser.me/api/portraits/women/10.jpg",
+    "full_name": "Divya Kapoor",
+    "dob": "1998-04-05",
+    "email": "divya.kapoor@csdept.com",
+    "ph_no": "9876543210",
+    "department": "Computer Science",
+    "specification": "UI/UX Design"
+  },
+
+  {
+    "id": "me1",
+    "img_url": "https://randomuser.me/api/portraits/men/11.jpg",
+    "full_name": "Manish Yadav",
+    "dob": "1997-06-17",
+    "email": "manish.yadav@mechdept.com",
+    "ph_no": "9876543211",
+    "department": "Mechanical",
+    "specification": "Thermodynamics"
+  },
+  {
+    "id": "me2",
+    "img_url": "https://randomuser.me/api/portraits/women/12.jpg",
+    "full_name": "Pooja Singh",
+    "dob": "1998-10-22",
+    "email": "pooja.singh@mechdept.com",
+    "ph_no": "9876543212",
+    "department": "Mechanical",
+    "specification": "Robotics"
+  },
+  {
+    "id": "me3",
+    "img_url": "https://randomuser.me/api/portraits/men/13.jpg",
+    "full_name": "Sandeep Kumar",
+    "dob": "1996-09-14",
+    "email": "sandeep.kumar@mechdept.com",
+    "ph_no": "9876543213",
+    "department": "Mechanical",
+    "specification": "Automobile Engineering"
+  },
+  {
+    "id": "me4",
+    "img_url": "https://randomuser.me/api/portraits/women/14.jpg",
+    "full_name": "Ritika Jain",
+    "dob": "1999-02-11",
+    "email": "ritika.jain@mechdept.com",
+    "ph_no": "9876543214",
+    "department": "Mechanical",
+    "specification": "Manufacturing"
+  },
+  {
+    "id": "me5",
+    "img_url": "https://randomuser.me/api/portraits/men/15.jpg",
+    "full_name": "Deepak Chauhan",
+    "dob": "1998-07-07",
+    "email": "deepak.chauhan@mechdept.com",
+    "ph_no": "9876543215",
+    "department": "Mechanical",
+    "specification": "CAD Design"
+  },
+  {
+    "id": "me6",
+    "img_url": "https://randomuser.me/api/portraits/women/16.jpg",
+    "full_name": "Megha Arora",
+    "dob": "1997-12-29",
+    "email": "megha.arora@mechdept.com",
+    "ph_no": "9876543216",
+    "department": "Mechanical",
+    "specification": "Industrial Engineering"
+  },
+  {
+    "id": "me7",
+    "img_url": "https://randomuser.me/api/portraits/men/17.jpg",
+    "full_name": "Nikhil Patil",
+    "dob": "1998-03-03",
+    "email": "nikhil.patil@mechdept.com",
+    "ph_no": "9876543217",
+    "department": "Mechanical",
+    "specification": "Heat Transfer"
+  },
+  {
+    "id": "me8",
+    "img_url": "https://randomuser.me/api/portraits/women/18.jpg",
+    "full_name": "Aarti Kulkarni",
+    "dob": "1999-11-20",
+    "email": "aarti.kulkarni@mechdept.com",
+    "ph_no": "9876543218",
+    "department": "Mechanical",
+    "specification": "Fluid Mechanics"
+  },
+  {
+    "id": "me9",
+    "img_url": "https://randomuser.me/api/portraits/men/19.jpg",
+    "full_name": "Ramesh Pillai",
+    "dob": "1996-05-28",
+    "email": "ramesh.pillai@mechdept.com",
+    "ph_no": "9876543219",
+    "department": "Mechanical",
+    "specification": "Production Engineering"
+  },
+  {
+    "id": "me10",
+    "img_url": "https://randomuser.me/api/portraits/women/20.jpg",
+    "full_name": "Swati Deshmukh",
+    "dob": "1998-08-16",
+    "email": "swati.deshmukh@mechdept.com",
+    "ph_no": "9876543220",
+    "department": "Mechanical",
+    "specification": "Mechatronics"
+  },
+  {
+    "id": "ee1",
+    "img_url": "https://randomuser.me/api/portraits/men/21.jpg",
+    "full_name": "Amit Tiwari",
+    "dob": "1997-04-12",
+    "email": "amit.tiwari@electricaldept.com",
+    "ph_no": "9876543221",
+    "department": "Electrical",
+    "specification": "Power Systems"
+  },
+  {
+    "id": "ee2",
+    "img_url": "https://randomuser.me/api/portraits/women/22.jpg",
+    "full_name": "Shalini Rao",
+    "dob": "1998-06-30",
+    "email": "shalini.rao@electricaldept.com",
+    "ph_no": "9876543222",
+    "department": "Electrical",
+    "specification": "Control Systems"
+  },
+  {
+    "id": "ee3",
+    "img_url": "https://randomuser.me/api/portraits/men/23.jpg",
+    "full_name": "Vivek Anand",
+    "dob": "1996-09-18",
+    "email": "vivek.anand@electricaldept.com",
+    "ph_no": "9876543223",
+    "department": "Electrical",
+    "specification": "Electrical Machines"
+  },
+  {
+    "id": "ee4",
+    "img_url": "https://randomuser.me/api/portraits/women/24.jpg",
+    "full_name": "Nisha Thomas",
+    "dob": "1999-01-27",
+    "email": "nisha.thomas@electricaldept.com",
+    "ph_no": "9876543224",
+    "department": "Electrical",
+    "specification": "Power Electronics"
+  },
+  {
+    "id": "ee5",
+    "img_url": "https://randomuser.me/api/portraits/men/25.jpg",
+    "full_name": "Kunal Joshi",
+    "dob": "1998-11-05",
+    "email": "kunal.joshi@electricaldept.com",
+    "ph_no": "9876543225",
+    "department": "Electrical",
+    "specification": "Renewable Energy"
+  },
+  {
+    "id": "ee6",
+    "img_url": "https://randomuser.me/api/portraits/women/26.jpg",
+    "full_name": "Lavanya Menon",
+    "dob": "1997-08-14",
+    "email": "lavanya.menon@electricaldept.com",
+    "ph_no": "9876543226",
+    "department": "Electrical",
+    "specification": "High Voltage Engineering"
+  },
+  {
+    "id": "ee7",
+    "img_url": "https://randomuser.me/api/portraits/men/27.jpg",
+    "full_name": "Rohit Bansal",
+    "dob": "1996-12-09",
+    "email": "rohit.bansal@electricaldept.com",
+    "ph_no": "9876543227",
+    "department": "Electrical",
+    "specification": "Smart Grid Technology"
+  },
+  {
+    "id": "ee8",
+    "img_url": "https://randomuser.me/api/portraits/women/28.jpg",
+    "full_name": "Komal Sinha",
+    "dob": "1999-03-22",
+    "email": "komal.sinha@electricaldept.com",
+    "ph_no": "9876543228",
+    "department": "Electrical",
+    "specification": "Embedded Systems"
+  },
+  {
+    "id": "ee9",
+    "img_url": "https://randomuser.me/api/portraits/men/29.jpg",
+    "full_name": "Pradeep Nair",
+    "dob": "1998-07-19",
+    "email": "pradeep.nair@electricaldept.com",
+    "ph_no": "9876543229",
+    "department": "Electrical",
+    "specification": "Signal Processing"
+  },
+  {
+    "id": "ee10",
+    "img_url": "https://randomuser.me/api/portraits/women/30.jpg",
+    "full_name": "Ishita Malhotra",
+    "dob": "1997-10-03",
+    "email": "ishita.malhotra@electricaldept.com",
+    "ph_no": "9876543230",
+    "department": "Electrical",
+    "specification": "Instrumentation Engineering"
+  },
+
+  {
+    "id": "ce1",
+    "img_url": "https://randomuser.me/api/portraits/men/31.jpg",
+    "full_name": "Harsh Vardhan",
+    "dob": "1996-02-15",
+    "email": "harsh.vardhan@civildept.com",
+    "ph_no": "9876543231",
+    "department": "Civil",
+    "specification": "Structural Engineering"
+  },
+  {
+    "id": "ce2",
+    "img_url": "https://randomuser.me/api/portraits/women/32.jpg",
+    "full_name": "Anjali Kapoor",
+    "dob": "1998-05-08",
+    "email": "anjali.kapoor@civildept.com",
+    "ph_no": "9876543232",
+    "department": "Civil",
+    "specification": "Geotechnical Engineering"
+  },
+  {
+    "id": "ce3",
+    "img_url": "https://randomuser.me/api/portraits/men/33.jpg",
+    "full_name": "Suresh Reddy",
+    "dob": "1997-09-26",
+    "email": "suresh.reddy@civildept.com",
+    "ph_no": "9876543233",
+    "department": "Civil",
+    "specification": "Transportation Engineering"
+  },
+  {
+    "id": "ce4",
+    "img_url": "https://randomuser.me/api/portraits/women/34.jpg",
+    "full_name": "Bhavana Iyer",
+    "dob": "1999-12-18",
+    "email": "bhavana.iyer@civildept.com",
+    "ph_no": "9876543234",
+    "department": "Civil",
+    "specification": "Environmental Engineering"
+  },
+  {
+    "id": "ce5",
+    "img_url": "https://randomuser.me/api/portraits/men/35.jpg",
+    "full_name": "Rajeev Kumar",
+    "dob": "1998-03-11",
+    "email": "rajeev.kumar@civildept.com",
+    "ph_no": "9876543235",
+    "department": "Civil",
+    "specification": "Construction Management"
+  },
+  {
+    "id": "ce6",
+    "img_url": "https://randomuser.me/api/portraits/women/36.jpg",
+    "full_name": "Sakshi Gupta",
+    "dob": "1997-07-24",
+    "email": "sakshi.gupta@civildept.com",
+    "ph_no": "9876543236",
+    "department": "Civil",
+    "specification": "Water Resources Engineering"
+  },
+  {
+    "id": "ce7",
+    "img_url": "https://randomuser.me/api/portraits/men/37.jpg",
+    "full_name": "Lokesh Sharma",
+    "dob": "1996-10-30",
+    "email": "lokesh.sharma@civildept.com",
+    "ph_no": "9876543237",
+    "department": "Civil",
+    "specification": "Urban Planning"
+  },
+  {
+    "id": "ce8",
+    "img_url": "https://randomuser.me/api/portraits/women/38.jpg",
+    "full_name": "Preeti Nanda",
+    "dob": "1998-01-09",
+    "email": "preeti.nanda@civildept.com",
+    "ph_no": "9876543238",
+    "department": "Civil",
+    "specification": "Surveying"
+  },
+  {
+    "id": "ce9",
+    "img_url": "https://randomuser.me/api/portraits/men/39.jpg",
+    "full_name": "Yogesh Mishra",
+    "dob": "1997-06-06",
+    "email": "yogesh.mishra@civildept.com",
+    "ph_no": "9876543239",
+    "department": "Civil",
+    "specification": "Bridge Engineering"
+  },
+  {
+    "id": "ce10",
+    "img_url": "https://randomuser.me/api/portraits/women/40.jpg",
+    "full_name": "Tanya Arora",
+    "dob": "1999-04-21",
+    "email": "tanya.arora@civildept.com",
+    "ph_no": "9876543240",
+    "department": "Civil",
+    "specification": "Construction Technology"
+  }
+]
